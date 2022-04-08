@@ -27,4 +27,3 @@ Twitter Search
 
 
 
-Note: I don't find all this stuff myself, I put it here after I find it on Product Hunt, blogs, hear about them from amazing people in the recruiting / sourcing community and at conferences.
