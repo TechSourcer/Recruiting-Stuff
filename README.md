@@ -10,28 +10,28 @@ In the following sections you will find everything what you need for sourcing.
 
 Note: The usage of any of these resources are at your ownrisk. Hence I am not responsible for your safety / compliance / relationship or anything else. 
 
-## 🔎 Search Engines
+## 🔎 Search Tools
 
-### Search Engines
+#### Search Engines
 
 - [Google](https://www.google.de/)
 - [Bing](https://www2.bing.com/?form=DCDN)
 - [Yandex](https://yandex.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
 
-### Search Tools
+#### Twitter
 
-
-### X-Ray Search Engines
-
-
-
-## Useful Websites
-
-#### Twitter Search 
 - [Followerwonk](https://followerwonk.com/)
 - [TinfoLeak](https://tinfoleak.com/)
 - [Twitonomy](https://www.twitonomy.com/)
+
+#### X-Ray Search Engines
+
+- [Recruit'em](https://recruitin.net/) - X-Ray search with Google 
+- [Advangle](http://advangle.com/) - Advanced web search in Google and Bing
+
+
+## Useful Websites
 
 
 ## 📖 Books 
