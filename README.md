@@ -15,6 +15,8 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 #### Search Engines
 
 - [Google](https://www.google.de/)
+- [Google Patents](https://patents.google.com/)
+- [Google Image Search](https://images.google.com/)
 - [Bing](https://www2.bing.com/?form=DCDN)
 - [Yandex](https://yandex.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
