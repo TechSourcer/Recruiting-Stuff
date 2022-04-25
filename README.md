@@ -20,6 +20,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Bing](https://www2.bing.com/?form=DCDN)
 - [Yandex](https://yandex.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
+- [Bing vs. Google](http://bvsg.org/)
 
 #### Twitter
 
