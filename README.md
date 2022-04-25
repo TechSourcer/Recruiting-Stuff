@@ -24,8 +24,8 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 #### Twitter
 
 - [Followerwonk](https://followerwonk.com/)
-- [TinfoLeak](https://tinfoleak.com/)
-- [Twitonomy](https://www.twitonomy.com/)
+- [TinfoLeak](https://tinfoleak.com/) - Search for Twitter User Leaks
+- [Twitonomy](https://www.twitonomy.com/) - Twitter analytics and much more 
 
 #### X-Ray Search Engines
 
