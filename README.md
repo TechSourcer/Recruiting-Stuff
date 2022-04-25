@@ -20,7 +20,11 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Bing](https://www2.bing.com/?form=DCDN)
 - [Yandex](https://yandex.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
-- [Bing vs. Google](http://bvsg.org/)
+
+#### Academic Search Engines
+
+- [BASE](https://www.base-search.net/Search/Advanced) - Bielefeld Academic Search Engine
+- [Google Scholar](https://scholar.google.com/) 
 
 #### Twitter
 
@@ -32,7 +36,11 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 
 - [Recruit'em](https://recruitin.net/) - X-Ray search with Google 
 - [Advangle](http://advangle.com/) - Advanced web search in Google and Bing
+- [Bing vs. Google](http://bvsg.org/) - Use X-Ray and compare both results in Bing and Google
 
+#### Reddit 
+
+- [Reddit Comment History](https://roadtolarissa.com/javascript/reddit-comment-visualizer/) - Download comment Reddit history
 
 ## Useful Websites
 
