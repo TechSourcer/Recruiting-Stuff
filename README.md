@@ -41,6 +41,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 #### Keyword Search 
 
 - [GlossaryTech](https://glossarytech.com/) - Search tech terms
+- [Keyword.io](https://www.keyword.io/) - Free keyword research tool
 
 #### Reddit 
 
