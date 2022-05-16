@@ -1,0 +1,18 @@
+-- Top Users by City and tag
+
+SELECT
+    ROW_NUMBER() OVER(ORDER BY Reputation DESC) AS [#], 
+    u.Id AS [User Link], 
+    u.Reputation,
+    count(p.id)
+FROM
+    Users u
+inner join posts p on p.ownerUserid = u.id
+inner join posttags pt on pt.postid = p.id
+inner join tags t on t.id = pt.tagid
+WHERE
+    Location like '%##Location##%'
+    and t.tagname='##tagname##'
+group by u.reputation, u.id
+ORDER BY
+    Reputation DESC;
