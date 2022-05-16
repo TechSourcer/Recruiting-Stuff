@@ -38,6 +38,10 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Advangle](http://advangle.com/) - Advanced web search in Google and Bing
 - [Bing vs. Google](http://bvsg.org/) - Use X-Ray and compare both results in Bing and Google
 
+#### Keyword Search 
+
+-[GlossaryTech] (https://glossarytech.com/) - Search tech terms
+
 #### Reddit 
 
 - [Reddit Comment History](https://roadtolarissa.com/javascript/reddit-comment-visualizer/) - Download comment Reddit history
