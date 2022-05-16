@@ -43,6 +43,9 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [GlossaryTech](https://glossarytech.com/) - Search tech terms
 - [Keyword.io](https://www.keyword.io/) - Free keyword research tool
 
+#### Stackoverflow
+- [Query Stack Overflow - Stack Exchange](https://data.stackexchange.com/stackoverflow/query/new) - Create your own query for Stack Exchange
+
 #### Reddit 
 
 - [Reddit Comment History](https://roadtolarissa.com/javascript/reddit-comment-visualizer/) - Download comment Reddit history
