@@ -40,7 +40,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 
 #### Keyword Search 
 
--[GlossaryTech] (https://glossarytech.com/) - Search tech terms
+-[GlossaryTech](https://glossarytech.com/) - Search tech terms
 
 #### Reddit 
 
