@@ -46,6 +46,14 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 #### Stackoverflow
 - [Query Stack Overflow - Stack Exchange](https://data.stackexchange.com/stackoverflow/query/new) - Create your own query for Stack Exchange
 
+#### Github 
+
+- [Github Profiles](https://profile-summary-for-github.com/search) Profile summary at Github
+- [E-Mail On Github](https://chrome.google.com/webstore/detail/emailongithub/jjmphadcgcmpdnombcomlmmbmojccmcf) E Mail on Github
+- [GitHubber](https://chrome.google.com/webstore/detail/githubber/gmhgbhgpembbkendmjfhmdekcddncflc) - Detailed view of github profiles
+- [Github Super Search](https://chrome.google.com/webstore/detail/github-super-search/cfbhifpagcclempcnlfdajgphkmokmfj) - Github Goto Anything search
+- [Coderstats link for Github Coders](https://chrome.google.com/webstore/detail/coderstats-link-for-githu/necogepejonacpphmlmcagmbjaogpbng)
+
 #### Reddit 
 
 - [Reddit Comment History](https://roadtolarissa.com/javascript/reddit-comment-visualizer/) - Download comment Reddit history
@@ -64,6 +72,8 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Emojipedia](https://emojipedia.org/symbols/)
 
 ## Extensions 
+
+
 
 ## Tools 
 
