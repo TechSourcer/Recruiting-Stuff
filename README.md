@@ -61,6 +61,11 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 
 ## Useful Websites
 
+## 💌 Blogs
+
+- [Recruiting Daily](https://recruitingdaily.com/)
+- [SourceCon](https://www.sourcecon.com/)
+- [Wizardsourcer](https://wizardsourcer.com/blog/)
 
 ## 📖 Books 
 
