@@ -68,7 +68,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Full Stack Recruiter - New Secrets Revealed by Jan Tegze](https://www.amazon.com/Full-Stack-Recruiter-Secrets-Revealed/dp/8027048184/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1541714235&sr=8-2)
 - [A guide to Diversity Talent Sourcing: How to attract and hire diverse Candidates using Boolean strings and tools online - By Jonathan Kidder](https://www.amazon.com/-/de/dp/B08XZGJ8JG/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=103YWE2EKSXF1&keywords=sourcing&qid=1653031639&sprefix=sourcin%2Caps%2C211&sr=8-2)
 
-## Emojis e.g. for LinkedIn
+## 🖌️ Emojis e.g. for LinkedIn
 
 - [Spice up your LinkedIn Profile](https://www.linkedin.com/pulse/20140423001152-22901019-symbols-to-spice-up-your-linkedin-profile/)
 - [Style my text](https://www.stylemytext.com/)
