@@ -21,6 +21,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Yandex](https://yandex.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [40 Custom Search Engines by Irina Shamaeva](https://booleanstrings.com/all-the-40-forty-custom-search-engines/)
+- [Google Social Search](https://www.social-searcher.com/google-social-search/) - Top Social Networks Seach Results Dashboard
 
 #### Academic Search Engines
 
@@ -32,6 +33,8 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Followerwonk](https://followerwonk.com/)
 - [TinfoLeak](https://tinfoleak.com/) - Search for Twitter User Leaks
 - [Twitonomy](https://www.twitonomy.com/) - Twitter analytics and much more 
+- [Birdhunt](https://birdhunt.co/?fbclid=IwAR3xe7Pa4GVZjx5q2BrPbkV5UpUb13VEk7vsuT0Iimg4Qm_kdEUjFO_37-4) - Find tweets by location
+- [Tweepdiff](https://tweepdiff.com/) - Compare twitter friends and followers
 
 #### X-Ray Search Engines
 
