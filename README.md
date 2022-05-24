@@ -71,8 +71,6 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 
 - [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) - Quick method to search for usernames and hashtags at TikTok
 
-## Useful Websites
-
 ## 💌 Blogs
 
 - [Recruiting Daily](https://recruitingdaily.com/)
@@ -92,11 +90,10 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Material Design Icons](https://www.materialpalette.com/icons)
 - [Emojipedia](https://emojipedia.org/symbols/)
 
-## Extensions 
+## Some other social media sites
 
+- [Social-Searcher](https://www.social-searcher.com/) - Free Social Media Search Engine (searches e.g. for hashtags, users..)
 
-
-## Tools 
 
 
 
