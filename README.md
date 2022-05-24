@@ -50,11 +50,11 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 #### Github 
 
 - [Github Profiles](https://profile-summary-for-github.com/search) Profile summary at Github
-- [HireGit](https://hiregit.netlify.app/) - Search for talents on Github
-- [E-Mail On Github](https://chrome.google.com/webstore/detail/emailongithub/jjmphadcgcmpdnombcomlmmbmojccmcf) E Mail on Github
-- [GitHubber](https://chrome.google.com/webstore/detail/githubber/gmhgbhgpembbkendmjfhmdekcddncflc) - Detailed view of github profiles
-- [Github Super Search](https://chrome.google.com/webstore/detail/github-super-search/cfbhifpagcclempcnlfdajgphkmokmfj) - Github Goto Anything search
-- [Coderstats link for Github Coders](https://chrome.google.com/webstore/detail/coderstats-link-for-githu/necogepejonacpphmlmcagmbjaogpbng)
+- [HireGit](https://hiregit.netlify.app/) - Search for talents on Github 
+- [E-Mail On Github](https://chrome.google.com/webstore/detail/emailongithub/jjmphadcgcmpdnombcomlmmbmojccmcf) E Mail on Github - Extension
+- [GitHubber](https://chrome.google.com/webstore/detail/githubber/gmhgbhgpembbkendmjfhmdekcddncflc) - Detailed view of github profiles - Extension
+- [Github Super Search](https://chrome.google.com/webstore/detail/github-super-search/cfbhifpagcclempcnlfdajgphkmokmfj) - Github Goto Anything search - Extension
+- [Coderstats link for Github Coders](https://chrome.google.com/webstore/detail/coderstats-link-for-githu/necogepejonacpphmlmcagmbjaogpbng) - Extension
 
 #### Reddit 
 
