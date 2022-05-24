@@ -90,6 +90,12 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Material Design Icons](https://www.materialpalette.com/icons)
 - [Emojipedia](https://emojipedia.org/symbols/)
 
+## Facebook Groups for Recruiters & Sourcers
+
+- [SourceCon](https://www.facebook.com/groups/151466298380729/) - SourceCon > 12.000 members
+- [Sourcers who code ](https://www.facebook.com/groups/SourcersWhoCode/) - Sourcers who code > 4500 members
+- [Secret Sourcing Group](https://www.facebook.com/groups/secret.sourcing/) - Secret Sourcing Group > 14.000 members
+
 ## Some other social media sites
 
 - [Social-Searcher](https://www.social-searcher.com/) - Free Social Media Search Engine (searches e.g. for hashtags, users..)
