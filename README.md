@@ -60,6 +60,14 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 
 - [Reddit Comment History](https://roadtolarissa.com/javascript/reddit-comment-visualizer/) - Download comment Reddit history
 
+### Slack Communities
+
+- [List of Slack communities](https://www.airtable.com/universe/expRhUQt5YsHhMdhO/the-full-list-of-slack-communities?explore=true) - Find communities at Slack
+
+### TikTok Search
+
+- [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) - Quick method to search for usernames and hashtags at TikTok
+
 ## Useful Websites
 
 ## 💌 Blogs
