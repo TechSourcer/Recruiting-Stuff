@@ -22,6 +22,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [DuckDuckGo](https://duckduckgo.com/)
 - [40 Custom Search Engines by Irina Shamaeva](https://booleanstrings.com/all-the-40-forty-custom-search-engines/)
 - [Google Social Search](https://www.social-searcher.com/google-social-search/) - Top Social Networks Seach Results Dashboard
+- [CustomSearches - Hidden resumes](https://hiddenresumes.com/custom-searches/) - Google CSE with hidden resumeees - already created!
 
 #### Academic Search Engines
 
