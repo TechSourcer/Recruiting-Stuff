@@ -24,6 +24,11 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Google Social Search](https://www.social-searcher.com/google-social-search/) - Top Social Networks Seach Results Dashboard
 - [CustomSearches - Hidden resumes](https://hiddenresumes.com/custom-searches/) - Google CSE with hidden resumeees - already created!
 
+#### Image Search
+
+- [Tineye](https://tineye.com/) - Tineye Reverse Image Search
+- [Google Image Search](https://www.google.de/imghp) - Google Image Search
+
 #### Academic Search Engines
 
 - [BASE](https://www.base-search.net/Search/Advanced) - Bielefeld Academic Search Engine
@@ -43,10 +48,12 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Advangle](http://advangle.com/) - Advanced web search in Google and Bing
 - [Bing vs. Google](http://bvsg.org/) - Use X-Ray and compare both results in Bing and Google
 
-#### Keyword Search 
+#### Keyword Search & Thesaurus
 
 - [GlossaryTech](https://glossarytech.com/) - Search tech terms
 - [Keyword.io](https://www.keyword.io/) - Free keyword research tool
+- [Wordtracker](https://www.wordtracker.com/)- Find new keywords
+- [Power Thesaurus](https://www.wordtracker.com/) - Power thesaurus
 
 #### Stackoverflow
 - [Query Stack Overflow - Stack Exchange](https://data.stackexchange.com/stackoverflow/query/new) - Create your own query for Stack Exchange
