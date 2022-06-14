@@ -98,6 +98,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 ## Some other social media sites
 
 - [Social-Searcher](https://www.social-searcher.com/) - Free Social Media Search Engine (searches e.g. for hashtags, users..)
+- [Tech Layoff Tracker](https://layoffs.fyi/) - List of Layoffs Tech companies
 
 
 
