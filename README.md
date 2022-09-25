@@ -65,6 +65,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [GitHubber](https://chrome.google.com/webstore/detail/githubber/gmhgbhgpembbkendmjfhmdekcddncflc) - Detailed view of github profiles - Extension 🧰
 - [Github Super Search](https://chrome.google.com/webstore/detail/github-super-search/cfbhifpagcclempcnlfdajgphkmokmfj) - Github Goto Anything search - Extension 🧰
 - [Coderstats link for Github Coders](https://chrome.google.com/webstore/detail/coderstats-link-for-githu/necogepejonacpphmlmcagmbjaogpbng) - Extension 🧰
+- [Github Markdown Printer](https://microsoftedge.microsoft.com/addons/detail/github-markdown-printer/njdhaokfdmnighagdlhbfpkmcgojljcl) - Extension 🧰
 
 #### Reddit 
 
