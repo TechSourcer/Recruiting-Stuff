@@ -1,6 +1,6 @@
 ## Recruiting-Stuff
 
-++ Under Construction ++
+And we are still ongoing to keep this site updated!!!! 🦍
 
 This is all about recruiting and sourcing! Suggestions, ideas and comments are welcome!
 
