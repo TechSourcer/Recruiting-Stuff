@@ -1,7 +1,0 @@
-select top 1000
-       u.id as [User ID],
-       u.displayname as [User Name],
-       u.reputation as [User Rep]
-from users u
-where upper(u.location) like upper('%' + ##YourLocation:string## + '%') -- uppercase location--
-ORDER BY u.reputation DESC, u.UpVotes DESC
