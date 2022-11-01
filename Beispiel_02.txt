@@ -1,7 +1,0 @@
--- Find Stack Overflow Users In Your City (with user-links)
--- A simply query to find users in your city or country. Added user links.
-
-select Id [User Link], Reputation, DisplayName, Location
-from Users
-where Location like '%##Location##%'
-order by Reputation desc
