@@ -2,7 +2,7 @@
 
 And we are still ongoing to keep this site updated!!!! 🦍💪
 
-This is all about recruiting and sourcing! Suggestions, ideas and comments are welcome!
+This is all about recruiting and sourcing! So hence Suggestions, ideas and comments are welcome!
 
 I created this also for my teammates since I am also giving inhouse courses in sourcing for our recruiting geeks. So that was the decision to make it also public in order to share my knowledge, so that other people can use it, too! 
 
