@@ -84,6 +84,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Recruiting Daily](https://recruitingdaily.com/)
 - [SourceCon](https://www.sourcecon.com/)
 - [Wizardsourcer](https://wizardsourcer.com/blog/)
+- [Die Gruene03 Blog](https://blog.diegruene3.de/)
 
 ## 📖 Books 
 
