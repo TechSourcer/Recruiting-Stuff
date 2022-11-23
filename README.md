@@ -98,6 +98,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Style my text](https://www.stylemytext.com/)
 - [Material Design Icons](https://www.materialpalette.com/icons)
 - [Emojipedia](https://emojipedia.org/symbols/)
+- [Get emoji] (https://getemoji.com/)
 
 ## Facebook Groups for Recruiters & Sourcers
 
