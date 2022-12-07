@@ -80,6 +80,11 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 
 - [TikTok Quick Search](https://www.osintcombine.com/tiktok-quick-search) - Quick method to search for usernames and hashtags at TikTok
 
+#### Instagram Search
+
+-[Instagram Keyword Tool] (https://keywordtool.io/instagram)- Finds Hashtags or People on Instagram (and other websites too)
+
+
 ## 💌 Blogs
 
 - [Recruiting Daily](https://recruitingdaily.com/)
