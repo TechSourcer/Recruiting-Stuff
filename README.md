@@ -82,8 +82,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 
 #### Instagram Search
 
--[Instagram Keyword Tool] (https://keywordtool.io/instagram)- Finds Hashtags or People on Instagram (and other websites too)
-
+- [Keyword Tool Instagram](https://keywordtool.io/instagram) - Search for hashtags or users e.g. at Instagram
 
 ## 💌 Blogs
 
