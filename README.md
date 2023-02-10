@@ -104,6 +104,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Material Design Icons](https://www.materialpalette.com/icons)
 - [Emojipedia](https://emojipedia.org/symbols/)
 - [Get emoji](https://getemoji.com/)
+- [Copy and Paste Emoji](https://www.copyandpasteemoji.com/)
 
 ## Facebook Groups for Recruiters & Sourcers
 
