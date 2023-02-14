@@ -28,6 +28,9 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 
 - [Tineye](https://tineye.com/) - Tineye Reverse Image Search
 - [Google Image Search](https://www.google.de/imghp) - Google Image Search
+- [Pimeyes](https://pimeyes.com/en)
+
+Be careful with e.g. photo search due to GDP / Data privacy!
 
 #### Academic Search Engines
 
