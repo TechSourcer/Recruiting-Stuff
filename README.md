@@ -112,7 +112,7 @@ Please be careful and take care the GDP /data privacy of each person!
 
 ## 📈 Productivity
 
-- [Text Blaze] (https://chrome.google.com/webstore/detail/text-blaze/idgadaccgipmpannjkmfddolnnhmeklj) Extension 🧰
+- [Text Blaze](https://chrome.google.com/webstore/detail/text-blaze/idgadaccgipmpannjkmfddolnnhmeklj) Extension 🧰
 
 ## Facebook Groups for Recruiters & Sourcers
 
