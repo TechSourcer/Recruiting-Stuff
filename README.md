@@ -110,6 +110,10 @@ Please be careful and take care the GDP /data privacy of each person!
 - [Get emoji](https://getemoji.com/)
 - [Copy and Paste Emoji](https://www.copyandpasteemoji.com/)
 
+## 📈 Productivity
+
+- [Text Blaze] (https://chrome.google.com/webstore/detail/text-blaze/idgadaccgipmpannjkmfddolnnhmeklj) Extension 🧰
+
 ## Facebook Groups for Recruiters & Sourcers
 
 - [SourceCon](https://www.facebook.com/groups/151466298380729/) - SourceCon > 12.000 members
