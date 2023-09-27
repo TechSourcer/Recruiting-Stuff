@@ -111,10 +111,10 @@ Please be careful and take care the GDP /data privacy of each person!
 - [Get emoji](https://getemoji.com/)
 - [Copy and Paste Emoji](https://www.copyandpasteemoji.com/)
 
-## AI
+## 🤖 AI
 
-- [Text Blaze] (https://chrome.google.com/webstore/detail/text-blaze/idgadaccgipmpannjkmfddolnnhmeklj) Extension 🧰
-- [Magical AI] (https://www.getmagical.com/ai)Extension 🧰
+- [Text Blaze](https://chrome.google.com/webstore/detail/text-blaze/idgadaccgipmpannjkmfddolnnhmeklj) Extension 🧰
+- [Magical AI](https://www.getmagical.com/ai)Extension 🧰
 
 ## 📈 Productivity
 
