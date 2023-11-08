@@ -94,7 +94,6 @@ Please be careful and take care the GDP /data privacy of each person!
 - [SourceCon](https://www.sourcecon.com/)
 - [Wizardsourcer](https://wizardsourcer.com/blog/)
 - [SourcingUwe Blog](https://www.sourcinguwe.de/blog)
-- [Die Gruene03 Blog](https://blog.diegruene3.de/)
 
 ## 📖 Books 
 
@@ -121,6 +120,7 @@ Please be careful and take care the GDP /data privacy of each person!
 - [Text Blaze](https://chrome.google.com/webstore/detail/text-blaze/idgadaccgipmpannjkmfddolnnhmeklj) Extension 🧰
 - [Find on Xing](https://chrome.google.com/webstore/detail/find-on-xing/hllhbmpggmclmlefofdfoadpaeldnkfl) Find people on Xing - Extension 🧰
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) Dark Modus - Extension 🧰
+- [E Mail Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc) Finds e-Mail - Extension 🧰
 
 ## Facebook Groups for Recruiters & Sourcers
 
