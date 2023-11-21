@@ -121,6 +121,7 @@ Please be careful and take care the GDP /data privacy of each person!
 - [Find on Xing](https://chrome.google.com/webstore/detail/find-on-xing/hllhbmpggmclmlefofdfoadpaeldnkfl) Find people on Xing - Extension 🧰
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) Dark Modus - Extension 🧰
 - [E Mail Extractor](https://chrome.google.com/webstore/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc) Finds e-Mail - Extension 🧰
+- [Canned Replies](https://chromewebstore.google.com/detail/canned-replies/ddoijapfgfbaaehaegnddlbnmcbngkpi?pli=1) - Automated replies - Extension 🧰
 
 ## Facebook Groups for Recruiters & Sourcers
 
