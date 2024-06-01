@@ -94,6 +94,7 @@ Please be careful and take care the GDP /data privacy of each person!
 - [SourceCon](https://www.sourcecon.com/)
 - [Wizardsourcer](https://wizardsourcer.com/blog/)
 - [SourcingUwe Blog](https://www.sourcinguwe.de/blog)
+- [Irina Shamaeva Blog](https://booleanstrings.com/)
 
 ## 📖 Books 
 
