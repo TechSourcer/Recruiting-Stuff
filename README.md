@@ -63,6 +63,10 @@ Please be careful and take care the GDP /data privacy of each person!
 #### Stackoverflow
 - [Query Stack Overflow - Stack Exchange](https://data.stackexchange.com/stackoverflow/query/new) - Create your own query for Stack Exchange
 
+### Social Media and so on...
+
+-[SelectCopy: Copy Text from Videos](https://chromewebstore.google.com/detail/selectext-copy-text-from/gkkdmjjodidppndkbkhhknakbeflbomf?hl=en) - Copy Text from Video Extension 🧰
+
 #### Github 
 
 - [Github Profiles](https://profile-summary-for-github.com/search) Profile summary at Github
