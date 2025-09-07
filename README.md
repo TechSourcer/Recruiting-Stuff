@@ -22,7 +22,7 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [DuckDuckGo](https://duckduckgo.com/)
 - [40 Custom Search Engines by Irina Shamaeva](https://booleanstrings.com/all-the-40-forty-custom-search-engines/)
 - [Google Social Search](https://www.social-searcher.com/google-social-search/) - Top Social Networks Seach Results Dashboard
-- [Perplexity AI] (https://www.perplexity.ai/)- Perplexity AI 
+- [Perplexity AI](https://www.perplexity.ai/) - Perplexity AI 
 #### Image Search
 
 Please be careful and take care the GDP /data privacy of each person!
