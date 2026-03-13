@@ -25,8 +25,8 @@ Note: The usage of any of these resources are at your ownrisk. Hence I am not re
 - [Perplexity AI](https://www.perplexity.ai/) - Perplexity AI
 
 ### New Search Engines (but not worth for Sourcing + Boolean not possible) 
-- [Kagi] (https://https://kagi.com/)
-- [Mojeek] (https://www.mojeek.com/)
+- [Kagi](https://https://kagi.com/)
+- [Mojeek](https://www.mojeek.com/)
 
 #### Image Search
 
