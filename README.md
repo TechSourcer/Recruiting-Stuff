@@ -145,7 +145,8 @@ Please be careful and take care the GDP /data privacy of each person!
 
 ## Other Github Repos to follow - my recommendation
 
--[Sjamilla Github](https://github.com/Sjamilla/awesome-recruitment)
+- [Sjamilla Github](https://github.com/Sjamilla/awesome-recruitment)
+- [Carlo Pezzuto](https://github.com/carlopezzuto/Sourcing-Tools)
 
 
 
