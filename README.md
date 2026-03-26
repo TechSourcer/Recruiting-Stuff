@@ -143,6 +143,11 @@ Please be careful and take care the GDP /data privacy of each person!
 - [Social-Searcher](https://www.social-searcher.com/) - Free Social Media Search Engine (searches e.g. for hashtags, users..)
 - [Tech Layoff Tracker](https://layoffs.fyi/) - List of Layoffs Tech companies
 
+## Other Github Repos to follow - my recommendation
+
+-[Sjamilla Github](https://github.com/Sjamilla/awesome-recruitment)
+
+
 
 
 
