@@ -143,6 +143,14 @@ Please be careful and take care the GDP /data privacy of each person!
 - [Social-Searcher](https://www.social-searcher.com/) - Free Social Media Search Engine (searches e.g. for hashtags, users..)
 - [Tech Layoff Tracker](https://layoffs.fyi/) - List of Layoffs Tech companies
 
+## AI Visual Job Market
+
+Helpful and easy visualizer for AI Job Market e.g. filtering median salary, ranking, search filter for jobs...
+
+- [KI Jobatlas Visualizer](https://jobs.stefanai.de/) - Job Market Visualizer for Germany from Stefan.ai
+- [US Job Market Visualizer](https://karpathy.ai/jobs/) - Job Market Visualizer for US from Karpathy
+
+
 ## Other Github Repos to follow - my recommendation
 
 - [Sjamilla Github](https://github.com/Sjamilla/awesome-recruitment)
